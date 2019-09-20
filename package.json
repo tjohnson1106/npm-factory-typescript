@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/tjohnson1106/npm-typescript-factory"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/tjohnson1106/npm-typescript-factory/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/tjohnson1106/npm-typescript-factory/blob/master/README.md"
 }
